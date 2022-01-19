@@ -24,7 +24,7 @@ public class HomeWorkApp {
 
     public static void checkSumSign(){
         int a = 5;
-        int b= -7;
+        int b= 7;
         int sum = a + b;
         if (sum >= 0){
             System.out.println("Sum is positive.\n");
